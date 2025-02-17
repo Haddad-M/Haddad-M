@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mariss</h1>
+<h1 align="center">Hi 👋, I'm Mariss Haddad</h1>
 <h3 align="center">Chemical Engineering + Data Science + Microbiome</h3>
 
 - 🔭 I’m currently working on [Synthetic Glycans for Human Gut-Brain Axis Modulation]((private repo, for now))
 
 - 🌱 I’m currently learning **AWS, GNN, PyTorch**
-
-- 📫 How to reach me **LinkedIn**
 
 - 📄 Know about my experiences [(coming soon)]((coming soon))
 
