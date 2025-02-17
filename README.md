@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariss Haddad</h1>
-<h3 align="center">Chemical Engineering + Data Science + Microbiome</h3>
+<h3 align="center">Data Science + Chemical Engineering + Microbiome</h3>
 
 - 🔭 I’m currently working on **Synthetic Glycans for Human Gut-Brain Axis Modulation**
 
